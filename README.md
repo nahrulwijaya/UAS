@@ -101,7 +101,7 @@ while True:
 
 Tambah data
 
-![outputh-praktikum-5](img/t.png)
+![t](img/t.png)
 
 
 Ubah data

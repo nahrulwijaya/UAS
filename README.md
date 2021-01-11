@@ -2,7 +2,7 @@
 
 **Struktur Package & Module**
 
-![gitpush](assets/img/1.png)
+![gitpush](assets/gambar/1.png)
 
 **Penjelasan:**
 

@@ -2,7 +2,7 @@
 
 **Struktur Package & Module**
 
-![package](assets/img/1.png)
+![package](assets/img/pertama.png)
 
 **Penjelasan:**
 
@@ -101,29 +101,29 @@ while True:
 
 Tambah data
 
-![output-praktikum-5](assets/img/t.png)
+![output-praktikum-5](assets/img/kedua.png)
 
 
 Ubah data
 
-![output-praktikum-5](assets/img/u.png)
+![output-praktikum-5](assets/img/ketiga.png)
 
 
 Lihat data
 
-![output-praktikum](assets/img/l,png)
+![output-praktikum](assets/img/keempat.png)
 
 Cari data
 
-![output-praktikum](assets/img/c.png)
+![output-praktikum](assets/img/kelima.png)
 
 
 Hapus data
 
-![output-praktikum-5](assets/img/h.png)
+![output-praktikum-5](assets/img/keenam.png)
 
 
 **Flowchart:**
 
 
-![output-praktikum-5](assets/img/flowchart.png)# UAS
+![output-praktikum-5](assets/img/ketujuh.png)# UAS
